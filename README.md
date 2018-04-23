@@ -1,6 +1,6 @@
 <h2  align="center">Travel-Page</h2>
-<p>align="center">A landing-page for a traveling website made with Gulp</p>
-<p>I made this during one of my many coding courses</p> 
+<p align="center">A landing-page for a traveling website made with Gulp</p>
+<p align="center">Made this during one of my many coding courses</p> 
 
 <br/>
 
